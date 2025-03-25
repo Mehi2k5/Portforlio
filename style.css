@@ -1,0 +1,43 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Heading Styles */
+h1 {
+    color: #007bff;
+    text-align: center;
+}
+
+h2 {
+    color: #0056b3;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+}
+
+/* Text Styling */
+.intro {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.highlight {
+    color: #ff5733;
+    font-weight: bold;
+}
+
+/* Link Styling */
+.link {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
